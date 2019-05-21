@@ -1,0 +1,29 @@
+build/
+.gradle/
+.classpath
+.project
+.settings/
+
+
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+.idea/
+
+*.iml
+atlassian-ide-plugin.xml
+ui/customer/templates/pages/dataUse.*.json
+circlekid.ipr
+circlekid.iws
+/target/
+
+
+out/

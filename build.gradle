@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+}
+
+group 'recruitment'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.9'
+    compile group: 'commons-codec', name: 'commons-codec', version: '1.12'
+    compile group: 'org.springframework.security', name: 'spring-security-crypto', version: '3.1.0.RELEASE'
+
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
