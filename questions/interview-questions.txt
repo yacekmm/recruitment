@@ -1,0 +1,66 @@
+Rozgrzewka
+- Internal framework based on Spring
+
+Rozgrzewka
+- co w Java 8
+- Co nowego w kolejnych wersjach Javy, ponad 8
+- Jakie książki, kursy poleciłbyś programistom?
+
+Java
+- co to jest JIT
+	- co to jest faza warmup? po ilu iteracjach jest pierwsza kompilacja? czyli 10 000 operacji jest nieoptymalne
+- czy zwracać null z metod? nie - lepiej pustą kolekcję, Optionala, lub NullObjectPattern 
+	- https://dzone.com/articles/3-things-every-java-developer-should-stop-doing
+- Heap vs. Stack 
+	- rozdział 2. Runtime Data Area z https://dzone.com/articles/jvm-architecture-explained
+	- co jeśli ze Stacka odwołujesz się od obiektu - współdzielenie między wątkami https://dzone.com/articles/java-memory-management
+
+- Stream - live coding
+- co to jest autoboxing, jaka jest różnica między int a Integer?
+- Czy Java jest językiem interpretowanym czy kompilowanym
+
+- Wzorce projektowe, wymień które używasz, opisz jeden (Fasada, Builder, Static factory method, factory)
+- Na bazie jakiej biblioteki powstało nowe Java SE 8 Date and Time API?
+
+REST
+- GET vs. POST
+- PUT vs. POST
+
+Spring
+- różnica między @Service a @Component
+- co robi @PostConstruct
+- Co robi @ContitionalOnMissingBean
+- dałeś @Transactional na metodzie, czemu może nie zadziałać
+
+- Jakie są scopy beanów
+- Co jest wstrzykiwane gdy w beanie w scopie Singleton jest bean request
+- Co to są Repozytoria w Spring Data, napisz nagłówek metody która znajdzie Usera po nazwisku
+
+AngularJS
+- czy też Angular 7?
+- co to jest dyrektywa
+
+JPA
+- Zrobiłeś operację na encji z bazy, nie chcesz jej zapisywać do bazy. Co zrobić?
+- Wyjaśnij optimistic locking
+
+Architecture
+- jak działa load balancer
+- jak działa rolling deployment
+- masz dwie instancje usługi, chcesz usunąć kolumnę z bazy danych - jak to robisz?
+
+SQL
+- co to jest UPSERT
+- różnica między HAVING a WHERE
+
+Testy:
+- rodzaje testów
+- Jak testuje swoje aplikacje? TDD?
+
+Tomcat:
+- Co to jest servlet, za co odpowiada
+
+Git
+- różnica między Rebase i Merge
+
+
