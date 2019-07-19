@@ -1,10 +1,29 @@
++ zadaje pytania, kwestionuje
++
+
 Rozgrzewka
-- Internal framework based on Spring
+- Project to establish best DevOps Standards
+- Co  w backend, co w Frontend
+- Jak działa OpenId, JWT
+- architektura E-Schenker project - eksportu do pdf
+
+- jak zachowujesz się na PR?
+
+Zapytać: Spock, Groovy
+
+
 
 Rozgrzewka
 - co w Java 8
 - Co nowego w kolejnych wersjach Javy, ponad 8
 - Jakie książki, kursy poleciłbyś programistom?
+
+
+Gradle:
+- build.dependsOn jacocoTestReport - co to oznacza?
+
+Groovy:
+- czy są typy prymitywne w groovym?
 
 Java
 - co to jest JIT
@@ -39,6 +58,7 @@ Spring
 AngularJS
 - czy też Angular 7?
 - co to jest dyrektywa
+- co robi ngIf
 
 JPA
 - Zrobiłeś operację na encji z bazy, nie chcesz jej zapisywać do bazy. Co zrobić?
