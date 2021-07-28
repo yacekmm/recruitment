@@ -1,0 +1,19 @@
+Design pattern exercise
+
+
+You have to design the business logic of a Starbucks­ like cafeteria.  
+Specifically, you have to design the code responsible for preparing beverages (i.e. 
+Single shot espresso, Cappuccino, Tea, Milkshakes). 
+
+
+Each beverage is prepared following a sequence of common steps, such as: 
+○ Taking a cup where the beverage will be prepared 
+○ Pouring the main liquid (for example, water for the tea, hot coffee for the 
+espresso, milk for the milkshakes) 
+○ Adding some beverage ­specific ingredients (for example, the tea bag for the tea, 
+the milk foam for cappuccino, etc.) 
+○ Adding sugar 
+○ Serve the cup to the client 
+ 
+Which design pattern(s) would you use to model this scenario?  
+Justify your decision.

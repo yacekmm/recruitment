@@ -1,0 +1,65 @@
+Na podstawie definicji tabeli poniżej:
+
+
+create table users (
+   salary numeric,
+   department varchar(20),
+   employee varchar
+)
+
+
+1. Policz sumę zarobków w poszczególnych działach
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Policz średnią zarobków w działach co najmniej 5-osobowych
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Wypisz pięciu najlepiej zarabiających pracowników w firmie
